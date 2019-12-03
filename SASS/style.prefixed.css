@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    text-align: center;
+	  background: #22a6b3;
+    font-size: 20px;
+    line-height: 1.7;
+    font-family: 'Halant', serif;
+    color: black;
+}
+
+.section {
+    padding: 96px 0;
+}
+
+.artist {
+  font-size: 16px;
+    margin: 50px 0;
+    font-style: italic;
+}

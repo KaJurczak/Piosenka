@@ -1,0 +1,4 @@
+Komendy uruchamiaj¹ce narzêdzie:
+autoprefixer-cli -  ./node_modules/.bin/autoprefixer-cli -o SASS/style.prefixed.css SASS/style.css
+
+nu-html-checker - ./node_modules/.bin/nu-html-checker *.html
